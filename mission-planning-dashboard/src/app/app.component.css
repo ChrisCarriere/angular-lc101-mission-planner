@@ -4,13 +4,13 @@
  }
 
 app-crew {
-    flex: 1 1 auto;
+    flex: auto;
 }
 
 app-equipment {
-    flex: 1 1 auto;
+    flex: auto;
 }
 
 app-expiriments {
-    flex: 1 1 auto;
+    flex: auto;
 }
