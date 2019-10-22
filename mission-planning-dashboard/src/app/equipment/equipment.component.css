@@ -1,6 +1,7 @@
 h3 {
     text-align: center;
     text-decoration: underline;
+    color: white;
 }
 
 
@@ -8,8 +9,8 @@ h3 {
 div {
     text-align: center;
     padding: 20px;
-    border-right: solid;
-    border-left: solid;
+    border-right: solid white;
+    border-left: solid white;
 }
 
 li {
