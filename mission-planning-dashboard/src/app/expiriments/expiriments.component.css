@@ -1,0 +1,14 @@
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+div {
+    text-align: center;
+    padding: 20px;
+}
+
+li {
+    color: slateblue;
+    text-align: left;
+}

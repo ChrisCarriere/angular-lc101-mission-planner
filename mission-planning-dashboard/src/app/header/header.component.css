@@ -1,0 +1,15 @@
+h1 {
+    color: indianred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    text-align: center;
+    color: goldenrod;
+}
+
+div {
+    border: solid grey 1px;
+}

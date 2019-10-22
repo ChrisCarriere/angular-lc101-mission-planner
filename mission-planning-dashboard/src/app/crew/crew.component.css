@@ -1,0 +1,14 @@
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+div {
+    text-align: center;
+    padding: 20px;
+}
+
+li {
+    color: royalblue;
+    text-align: left;
+}
